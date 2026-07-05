@@ -35,3 +35,10 @@ python 多窗口.py
 
 ## 开源协议
 本项目采用 MIT 开源协议，允许自由学习、修改、二次分发使用。
+
+## 关键注意事项
+1. 不要开启GitHub Pages：这是桌面Python程序，网页无法运行，开Pages完全没用，不用做index跳转页面；
+2. 中文文件名 `多窗口.py` 本地运行无问题，GitHub支持中文文件名，无需改名；
+3. 运行报错排查：缺少tkinter库，按上面环境说明安装对应系统tk组件；
+4. 所有提交规范：新增代码用`feat:`，修改文档用`docs:`，修复bug用`fix:`，方便区分版本；
+5. 仓库链接：`https://github.com/Aventardo7777/love-multi-window-py`，只能下载代码本地运行，无法浏览器直接打开。
